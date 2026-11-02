@@ -1,1 +1,6 @@
-
+BusinessOwners
+LL84
+open api (to search esri geodatabase writer)
+Shape = geodb_point, polygon, polyline
+view written data
+create bookmark
