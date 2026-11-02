@@ -5,8 +5,6 @@
 **Sample CRS:** WGS 1984 UTM Zone 43N (EPSG:32643)  
 **Status:** Fictional demonstration project
 
-> This is a learning portfolio. It contains no Stantec, Arcadis or client-confidential information. Estimates, datasets and distances are illustrative.
-
 ## What this demonstrates
 - GIS data QA/QC and issue tracking
 - Project scoping, effort estimation and delivery planning
