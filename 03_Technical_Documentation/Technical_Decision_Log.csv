@@ -1,0 +1,6 @@
+Decision_ID,Decision,Reason,Impact,Approver,Date
+TD-001,Use approved local projected CRS for planar measurement,Linear units suit project area,Consistent area and length values,To be confirmed,
+TD-002,Dissolve buffers where combined constraint footprint is required,Matches analysis objective,Reduces overlapping buffer features,To be confirmed,
+TD-003,Retain original source data unchanged,Maintains traceability,Supports audit and reprocessing,To be confirmed,
+TD-004,Flag possible duplicates rather than auto-delete,Duplicates may be legitimate,Prevents loss of valid observations,To be confirmed,
+TD-005,Manually review topology errors,Some flagged conditions may be valid,Reduces inappropriate edits,To be confirmed,

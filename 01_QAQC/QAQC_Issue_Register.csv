@@ -1,0 +1,6 @@
+Issue_ID,Dataset,Issue_Description,Severity,Proposed_Action,Owner,Status,Resolution_Notes
+QA-001,Survey_Observations,Missing mandatory Confidence,Medium,Verify with survey team,GIS Analyst,Open,
+QA-002,Survey_Observations,Potential duplicate Site_ID,Medium,Compare source records before deciding,GIS Analyst,Under Review,
+QA-003,Land_Parcels,Polygon overlap flagged by topology,High,Inspect Error Inspector and source,Senior GIS Analyst,Open,
+QA-004,River_Network,Line dangle flagged by topology,Low,Check whether endpoint is valid,GIS Analyst,Under Review,
+QA-005,Protected_Sites,Unexpected spatial reference,High,Confirm source CRS and approved transformation,GIS Lead,Closed,Example only

@@ -1,0 +1,11 @@
+Task_ID,Activity,Role,Estimated_Hours,Assumption
+1,Project initiation and data inventory,GIS Lead,2,One project area and six input datasets
+2,Data inspection and CRS verification,GIS Analyst,3,Standard vector datasets
+3,Data cleaning and QA/QC,GIS Analyst,4,Moderate attribute and geometry checks
+4,Buffer and overlay analysis,GIS Analyst,5,Three buffers and combined constraints
+5,Area and length calculations,GIS Analyst,2,Projected CRS with metre units
+6,Cartography and map production,GIS Analyst,4,One A3 map layout
+7,Independent technical review,Senior GIS Analyst,3,One review cycle
+8,Corrections and final QA/QC,GIS Analyst,2,Minor review comments
+9,Documentation and delivery,GIS Lead,2,One final package
+TOTAL,All activities,Team,27,Illustrative estimate only
